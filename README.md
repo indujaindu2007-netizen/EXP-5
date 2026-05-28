@@ -31,7 +31,24 @@ OBSERVATIONS:
 
 REGULATION CHARACTERISTICS:
 
-V-I & REGULATION CHARACTERISTICS:
+
+
+
+
+
+<img width="1125" height="670" alt="image" src="https://github.com/user-attachments/assets/182a09fd-6b76-45e8-8311-52ce1491a94d" />
+
+
+
+
+V-I & REGULATION tablation:
+
+<img width="1585" height="1152" alt="image" src="https://github.com/user-attachments/assets/018f20a3-8de4-431d-910e-b0829ade26ae" />
+
+
+
+<img width="1600" height="1062" alt="WhatsApp Image 2026-05-29 at 1 16 02 AM" src="https://github.com/user-attachments/assets/373f7efc-51b8-48c5-8b1d-52f47ba625c0" />
+
 
 PRECAUTIONS:
 
